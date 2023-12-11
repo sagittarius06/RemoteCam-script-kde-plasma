@@ -21,3 +21,5 @@ The script utilizes a configuration file located at the following path: `$HOME/.
 
 ## Browser
 Open your favorite browser and test your virtual webcam.
+
+Pascal Billery-Schneider
